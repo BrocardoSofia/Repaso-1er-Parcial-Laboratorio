@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:d:\progra 2022\repaso 1er parcial\2013 lab1 p1 t1 mayo\pila.c
+	"pila.h"
+
+1490112217 d:\progra 2022\repaso 1er parcial\2013 lab1 p1 t1 mayo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1650987146 source:d:\progra 2022\repaso 1er parcial\2013 lab1 p1 t1 mayo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
